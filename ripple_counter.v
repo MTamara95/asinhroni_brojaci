@@ -1,6 +1,3 @@
-// https://www.jdoodle.com/execute-verilog-online
-// https://maxeler.mi.sanu.ac.rs/#/login
-
 module ff (q, clk, reset);
 
   output q;
